@@ -1,6 +1,6 @@
 ```
-# Msc IT
-# Machine comprehension with LSTM
+
+# Machine comprehension with LSTM 
 
 ### Requirements
 - [Torch7](https://github.com/torch/torch7)
